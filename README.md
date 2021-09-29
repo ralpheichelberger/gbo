@@ -6,3 +6,14 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 - [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
 # gbo
+
+
+installed this way:
+
+'''
+$ npm init @vitejs/app gbo -- --template vue
+$ cd gbo/
+$ vue add vuetify
+$ npm install
+$ npm run dev
+'''
